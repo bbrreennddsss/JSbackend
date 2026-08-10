@@ -1,12 +1,11 @@
 {
-  "name": "meu-primeiro-backend",
+  "name": "meu-primeiro-projeto-npm",
   "version": "1.0.0",
+  "description": "Meu primeiro projeto com NPM",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Brenda",
+  "license": "ISC"
 }
